@@ -11,4 +11,9 @@ whoami
 #!/bin/bash
 id -G
 
+John doe
+#!/bin/bash
+chmod 753
+
+
 
