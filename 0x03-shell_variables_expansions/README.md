@@ -12,3 +12,8 @@ export PATH=$PATH:/actio
 33-paths
 #!/bin/bash
 echo $((`echo $PATH | grep -o ":/" | wc -l`+ 1)
+
+4 4-global_variables
+printenv
+
+
